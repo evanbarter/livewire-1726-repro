@@ -1,0 +1,3 @@
+<div>
+    Sub component
+</div>
